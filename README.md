@@ -1,16 +1,18 @@
-## Hi there 👋
+# **Hi There, I'm Anuroopa!👋**
 
-<!--
-**Anuroopa12x/Anuroopa12x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥 Aspiring Web Developer | 📈 Commerce Student | 🏋️‍♀️ Fitness Enthusiast
 
-Here are some ideas to get you started:
+# **🌟About Me**
+- Passionate about web development and tech 🚀
+- On the jouney to build muscle and become stronger 💪
+- Math lover 📊 | Aspiring Entrepreneur 💼
+- Big fan of Wrestling(Especially women's wrestling 🔥)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **⚡Dreams and goals** 
+- Master Full Stack Web Development 🛠
+- Start Freelancing and Gain Financial Independence 💸
+- Build a successful Enterprise one day 🏢
+- Crush it in Fitness & Strength Training 🤸‍♀️
+
+# **🖇Let's Connect**
+- 📸 Instagram @heyitsanuroopa
